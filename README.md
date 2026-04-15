@@ -3,6 +3,12 @@ List
 - number 1
 - number 2
 - number 3
+
+ ## Task List  
+ - [x] completed
+       
+ - [ ] not completed
+       
 This is an image  
 
 ![this is rosalina](images/images.jpg)  
