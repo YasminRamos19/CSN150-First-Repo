@@ -15,6 +15,11 @@ Hello <sub>subscript</sub>  <sup>superscript</sup>
 
 ## Second Heading  
 > this is a quote
-
+Below is the code
+```
+var dog
+var cat
+console.log(cat + dog)
+```
 ### Third Heading  
 
