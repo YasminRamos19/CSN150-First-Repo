@@ -1,4 +1,7 @@
 # CSN 150 Second Repo
-**My name is** 
-***Yasmin Ramos***
-~Jayden~
+**My name is**  
+
+***Yasmin Ramos***  
+
+~Jayden~  
+
