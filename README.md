@@ -1,4 +1,7 @@
 # CSN150-First-Repo
+This is an image
+![this is rosalina](images/images.jpg)
+
 My First Repo  
 
 **Bold**  
