@@ -1,7 +1,8 @@
 # CSN150-First-Repo
 This is an image  
 
-![this is rosalina](images/images.jpg)
+![this is rosalina](images/images.jpg)  
+![image](https://i.imgur.com/xEPwEAX.jpeg)
 
 My First Repo  
 
